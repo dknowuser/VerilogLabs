@@ -1,0 +1,72 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\stud\4308\lab1
+T_opt
+Z1 VF1?0m[[SV_K_Y1fUk3Ao^2
+Z2 04 5 4 work lab1v fast 0
+Z3 =1-74d4359ffed5-5b8e4197-393-12f4
+Z4 o-quiet -auto_acc_if_foreign -work work
+Z5 n@_opt
+Z6 OE;O;6.5c;42
+T_opt1
+Z7 VbXJSFZ=B[<2CRZ5ee8[ok1
+Z8 04 4 4 work lab1 fast 0
+Z9 04 6 4 work lab1_m fast 0
+Z10 =1-74d4359ffed5-5b977159-251-19e8
+R4
+Z11 n@_opt1
+R6
+T_opt2
+Z12 VgS:20_>2]CkT5ioOB3i5g0
+R9
+Z13 =1-74d4359ffed5-5b977112-7a-12d4
+R4
+Z14 n@_opt2
+R6
+vlab1
+Z15 I2[bBI@>4VTORAEA50b5Z11
+Z16 VEgWe3zH:LgJD0]agIo[FB0
+Z17 dD:\stud\5307\Kozlov Marchuk\Verilog
+Z18 w1536649111
+Z19 8D:/stud/5307/Kozlov Marchuk/Verilog/Lab1.v
+Z20 FD:/stud/5307/Kozlov Marchuk/Verilog/Lab1.v
+L0 1
+Z21 OE;L;6.5c;42
+r1
+31
+Z22 !s102 -nocovercells
+Z23 o-work work -nocovercells -L mtiAvm -L mtiOvm -L mtiUPF
+Z24 !s100 EGh>I2l@om4f740f8:ZAR0
+!s85 0
+vlab1_m
+Z25 I?<bnn6NS>c0i?W;dh4gJ]0
+Z26 V9blTN<G7j4Wz^LE9JjH2i2
+R17
+Z27 w1536617012
+Z28 8D:/stud/5307/Kozlov Marchuk/Verilog/Lab1_m.v
+Z29 FD:/stud/5307/Kozlov Marchuk/Verilog/Lab1_m.v
+L0 1
+R21
+r1
+31
+R22
+R23
+Z30 !s100 XMZ^;j23L<C>4F[FC;NJI2
+!s85 0
+vlab1v
+Z31 I`1@8]=3075=bCDG21Fh9m3
+Z32 V`dFafHeU<7@kgiQeIBenI0
+R17
+Z33 w1535711412
+Z34 8D:/stud/class verilog/lab1v.v
+Z35 FD:/stud/class verilog/lab1v.v
+L0 2
+R21
+r1
+31
+R23
+R22
+Z36 !s100 `0`D=kM3Fo_G<RgWC:AhZ0
+!s85 0

@@ -1,0 +1,27 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\stud\4308\lab1
+T_opt
+Z1 VF1?0m[[SV_K_Y1fUk3Ao^2
+Z2 04 5 4 work lab1v fast 0
+Z3 =1-74d4359ffed5-5b8e4197-393-12f4
+Z4 o-quiet -auto_acc_if_foreign -work work
+Z5 n@_opt
+Z6 OE;O;6.5c;42
+vlab1v
+Z7 I`1@8]=3075=bCDG21Fh9m3
+Z8 V`dFafHeU<7@kgiQeIBenI0
+Z9 dD:\stud\5307\Kozlov Marchuk\Verilog
+Z10 w1535711412
+Z11 8D:/stud/class verilog/lab1v.v
+Z12 FD:/stud/class verilog/lab1v.v
+L0 2
+Z13 OE;L;6.5c;42
+r1
+31
+Z14 o-work work -nocovercells -L mtiAvm -L mtiOvm -L mtiUPF
+Z15 !s100 `0`D=kM3Fo_G<RgWC:AhZ0
+!s85 0
+Z16 !s102 -nocovercells

@@ -1,0 +1,159 @@
+m255
+K4
+z2
+13
+cModel Technology
+Z0 dE:/Labs/hard_languages/lab1
+!s112 0.1
+!i10d 8192
+!i10e 25
+!i10f 100
+T_opt
+Z1 VPQ^E@83165^icj>2C@=ZG1
+Z2 04 9 4 work test_flow fast 0
+Z3 =1-0090f5d3e5f7-5c155e4b-9c-1c0c
+Z4 o-quiet -auto_acc_if_foreign -work work
+Z5 n@_opt
+Z6 OL;O;10.2c;57
+Z7 dE:/Labs/hard_languages/lab1
+Z8 !s110 1544904267
+vacc_sum
+Z9 Ie2aRCc1bE@zKT<8gcCS<L3
+Z10 V`JN@9S9cnhjKRR_L]QIcM3
+Z11 dE:/Labs/hard_languages/lab6
+Z12 w1544899446
+Z13 8E:/Labs/hard_languages/lab6/sum.v
+Z14 FE:/Labs/hard_languages/lab6/sum.v
+L0 1
+Z15 OL;L;10.2c;57
+r1
+31
+Z16 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z17 !s100 :JXKfMlbHb=;G4eQAmJPI3
+Z18 !s90 -reportprogress|300|-work|work|-vopt|E:/Labs/hard_languages/lab6/sum.v|
+Z19 !s110 1544899451
+Z20 !s108 1544899451.078000
+Z21 !s107 E:/Labs/hard_languages/lab6/sum.v|
+!i10b 1
+!s85 0
+!i111 0
+vadd
+Z22 IK:SbCN076GLE_53X<iTjk1
+R10
+R11
+Z23 w1544900580
+Z24 8E:/Labs/hard_languages/lab6/add_flow.v
+Z25 FE:/Labs/hard_languages/lab6/add_flow.v
+L0 1
+R15
+r1
+31
+Z26 !s90 -reportprogress|300|-work|work|-vopt|E:/Labs/hard_languages/lab6/add_flow.v|
+R16
+Z27 !s107 E:/Labs/hard_languages/lab6/add_flow.v|
+Z28 !s110 1544900583
+Z29 !s100 3LE]gAL8RENYeL5Q2]M0G2
+Z30 !s108 1544900583.881000
+!i10b 1
+!s85 0
+!i111 0
+vadd_flow
+Z31 !s100 lXmc75SzK7R4DIT^j4Y9J3
+Z32 Ig0Pib0NW1AmnUBNdYS42Z3
+R10
+R11
+Z33 w1544900825
+R24
+R25
+L0 1
+R15
+r1
+31
+R26
+R16
+Z34 !s110 1544907399
+Z35 !s108 1544907399.845000
+R27
+!i10b 1
+!s85 0
+!i111 0
+vadd_pipe
+Z36 !s100 ^NbPbUOfK[l?HK8IiAVb41
+Z37 I<[0Z?;lZ7;XiLZNY1adL52
+R10
+R11
+Z38 w1544906784
+Z39 8E:/Labs/hard_languages/lab6/add_pipe.v
+Z40 FE:/Labs/hard_languages/lab6/add_pipe.v
+L0 1
+R15
+r1
+31
+Z41 !s90 -reportprogress|300|-work|work|-vopt|E:/Labs/hard_languages/lab6/add_pipe.v|
+R16
+Z42 !s110 1544907556
+Z43 !s108 1544907556.899000
+Z44 !s107 E:/Labs/hard_languages/lab6/add_pipe.v|
+!i10b 1
+!s85 0
+!i111 0
+vdevice_flow
+R34
+Z45 !s100 YV@5mDT]3[dmVFGGjVJ@Z2
+Z46 IOdgJ7TVR:fgBmVn<2RO]I2
+R10
+R11
+Z47 w1544904096
+Z48 8E:/Labs/hard_languages/lab6/device_flow.v
+Z49 FE:/Labs/hard_languages/lab6/device_flow.v
+L0 1
+R15
+r1
+31
+Z50 !s90 -reportprogress|300|-work|work|-vopt|E:/Labs/hard_languages/lab6/device_flow.v|
+R16
+Z51 !s108 1544907399.949000
+Z52 !s107 E:/Labs/hard_languages/lab6/device_flow.v|
+!i10b 1
+!s85 0
+!i111 0
+vdevice_pipe
+Z53 !s100 kgA06^@`J<AKmIDaiJH3K1
+Z54 ITFIOHHUo^2ECAA5nOi0602
+R10
+R11
+Z55 w1544906889
+Z56 8E:/Labs/hard_languages/lab6/device_pipe.v
+Z57 FE:/Labs/hard_languages/lab6/device_pipe.v
+L0 1
+R15
+r1
+31
+Z58 !s90 -reportprogress|300|-work|work|-vopt|E:/Labs/hard_languages/lab6/device_pipe.v|
+R16
+Z59 !s110 1544907557
+!i10b 1
+!s85 0
+Z60 !s108 1544907557.003000
+Z61 !s107 E:/Labs/hard_languages/lab6/device_pipe.v|
+!i111 0
+vtest_flow
+R59
+!i10b 1
+Z62 !s100 j]i:6XlMSMfPzdzPJPVPf2
+Z63 IjOzBViOA09DNMM3MYWZKU2
+R10
+R11
+Z64 w1544907394
+Z65 8E:/Labs/hard_languages/lab6/test_pipe.v
+Z66 FE:/Labs/hard_languages/lab6/test_pipe.v
+L0 1
+R15
+r1
+!s85 0
+31
+!s108 1544907557.078000
+!s107 E:/Labs/hard_languages/lab6/test_pipe.v|
+Z67 !s90 -reportprogress|300|-work|work|-vopt|E:/Labs/hard_languages/lab6/test_pipe.v|
+!i111 0
+R16

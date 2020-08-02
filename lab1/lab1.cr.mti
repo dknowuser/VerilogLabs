@@ -1,0 +1,15 @@
+E:/Labs/hard_languages/lab1/Lab1_m.v {1 {vlog -work work -vopt E:/Labs/hard_languages/lab1/Lab1_m.v
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module lab1_m
+
+Top level modules:
+	lab1_m
+
+} {} {}} E:/Labs/hard_languages/lab1/Lab1.v {1 {vlog -work work -vopt E:/Labs/hard_languages/lab1/Lab1.v
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module lab1
+
+Top level modules:
+	lab1
+
+} {} {}}

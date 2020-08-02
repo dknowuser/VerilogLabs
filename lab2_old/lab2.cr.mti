@@ -1,0 +1,14 @@
+E:/Labs/hard_languages/lab2/lab2.v {0 {vlog -work work -vopt E:/Labs/hard_languages/lab2/lab2.v
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module lab2
+** Error: E:/Labs/hard_languages/lab2/lab2.v(29): Checker 'my_logic' not found.  Instantiation 'my_logic_instance' must be of a visible checker.
+** Error: E:/Labs/hard_languages/lab2/lab2.v(29): A begin/end block was found with an empty body.  This is permitted in SystemVerilog, but not permitted in Verilog.  Please look for any stray semicolons.
+
+} {4.0 6.0} {}} E:/Labs/hard_languages/lab2/my_logic.v {1 {vlog -work work -vopt E:/Labs/hard_languages/lab2/my_logic.v
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling UDP my_logic
+
+Top level modules:
+	--none--
+
+} {} {}}

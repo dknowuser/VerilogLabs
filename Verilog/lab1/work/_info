@@ -1,0 +1,68 @@
+m255
+K4
+z2
+13
+cModel Technology
+Z0 dC:/questasim64_10.2c/examples
+!s112 0.1
+!i10d 8192
+!i10e 25
+!i10f 100
+T_opt
+VPi15FTkLz><PROfL]FVGG2
+Z1 04 4 4 work lab1 fast 0
+=1-0090f5d3e5f7-5b96d65e-1d8-2558
+Z2 o-quiet -auto_acc_if_foreign -work work
+n@_opt
+Z3 OL;O;10.2c;57
+Z4 dC:/questasim64_10.2c/examples
+!s110 1536611934
+T_opt1
+!s110 1536617092
+V]8Bc03[oV1K1VigBKB:Hk3
+R1
+04 6 4 work lab1_m fast 0
+=1-0090f5d3e5f7-5b96ea83-3d9-1ed4
+R2
+n@_opt1
+R3
+vlab1
+Z5 !s110 1536617067
+IWf7>X9e07gGKlQFL7QWV23
+Z6 V`JN@9S9cnhjKRR_L]QIcM3
+Z7 dE:/Labs/hard_languages/lab1
+w1536617064
+8E:/Labs/hard_languages/lab1/Lab1.v
+FE:/Labs/hard_languages/lab1/Lab1.v
+L0 1
+Z8 OL;L;10.2c;57
+r1
+31
+Z9 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s90 -reportprogress|300|-work|work|-vopt|E:/Labs/hard_languages/lab1/Lab1.v|
+!i10b 1
+!s100 _33X5zJX=>R4bJZQ3mV>G2
+!s85 0
+!s108 1536617067.574000
+!s107 E:/Labs/hard_languages/lab1/Lab1.v|
+!i111 0
+vlab1_m
+I1ooHZ6PjOM=Ug@a15ViMT1
+R6
+R7
+w1536617011
+8E:/Labs/hard_languages/lab1/Lab1_m.v
+FE:/Labs/hard_languages/lab1/Lab1_m.v
+L0 1
+R8
+r1
+31
+R9
+R5
+!s100 XMZ^;j23L<C>4F[FC;NJI2
+!s90 -reportprogress|300|-work|work|-vopt|E:/Labs/hard_languages/lab1/Lab1_m.v|
+!s108 1536617067.478000
+!s107 E:/Labs/hard_languages/lab1/Lab1_m.v|
+!i10b 1
+!s85 0
+!i111 0

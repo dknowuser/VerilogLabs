@@ -1,0 +1,199 @@
+# Reading C:/questasim64_10.2c/tcl/vsim/pref.tcl 
+# //  Questa Sim-64
+# //  Version 10.2c Unknown Platform Jul 19 2013
+# //
+# //  Copyright 1991-2013 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# do lab2_run_msim_gate_verilog.do 
+# if ![file isdirectory verilog_libs] {
+# 	file mkdir verilog_libs
+# }
+# 
+# vlib verilog_libs/altera_ver
+# ** Warning: (vlib-34) Library already exists at "verilog_libs/altera_ver".
+# 
+# vmap altera_ver ./verilog_libs/altera_ver
+# Copying C:/questasim64_10.2c/win64/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied C:/questasim64_10.2c/win64/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# vlog -vlog01compat -work altera_ver {c:/altera/13.0sp1/quartus/eda/sim_lib/altera_primitives.v}
+# QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+# -- Compiling module global
+# -- Compiling module carry
+# -- Compiling module cascade
+# -- Compiling module carry_sum
+# -- Compiling module exp
+# -- Compiling module soft
+# -- Compiling module opndrn
+# -- Compiling module row_global
+# -- Compiling module TRI
+# -- Compiling module lut_input
+# -- Compiling module lut_output
+# -- Compiling module latch
+# -- Compiling module dlatch
+# -- Compiling module prim_gdff
+# -- Compiling module dff
+# -- Compiling module dffe
+# -- Compiling module dffea
+# -- Compiling module dffeas
+# -- Compiling module prim_gtff
+# -- Compiling module tff
+# -- Compiling module tffe
+# -- Compiling module prim_gjkff
+# -- Compiling module jkff
+# -- Compiling module jkffe
+# -- Compiling module prim_gsrff
+# -- Compiling module srff
+# -- Compiling module srffe
+# -- Compiling module clklock
+# -- Compiling module alt_inbuf
+# -- Compiling module alt_outbuf
+# -- Compiling module alt_outbuf_tri
+# -- Compiling module alt_iobuf
+# -- Compiling module alt_inbuf_diff
+# -- Compiling module alt_outbuf_diff
+# -- Compiling module alt_outbuf_tri_diff
+# -- Compiling module alt_iobuf_diff
+# -- Compiling module alt_bidir_diff
+# -- Compiling module alt_bidir_buf
+# -- Compiling UDP PRIM_GDFF_LOW
+# -- Compiling UDP PRIM_GDFF_HIGH
+# 
+# Top level modules:
+# 	global
+# 	carry
+# 	cascade
+# 	carry_sum
+# 	exp
+# 	soft
+# 	opndrn
+# 	row_global
+# 	TRI
+# 	lut_input
+# 	lut_output
+# 	latch
+# 	dlatch
+# 	dff
+# 	dffe
+# 	dffea
+# 	dffeas
+# 	tff
+# 	tffe
+# 	jkff
+# 	jkffe
+# 	srff
+# 	srffe
+# 	clklock
+# 	alt_inbuf
+# 	alt_outbuf
+# 	alt_outbuf_tri
+# 	alt_iobuf
+# 	alt_inbuf_diff
+# 	alt_outbuf_diff
+# 	alt_outbuf_tri_diff
+# 	alt_iobuf_diff
+# 	alt_bidir_diff
+# 	alt_bidir_buf
+# 
+# vlib verilog_libs/cycloneiii_ver
+# ** Warning: (vlib-34) Library already exists at "verilog_libs/cycloneiii_ver".
+# 
+# vmap cycloneiii_ver ./verilog_libs/cycloneiii_ver
+# Modifying modelsim.ini
+# vlog -vlog01compat -work cycloneiii_ver {c:/altera/13.0sp1/quartus/eda/sim_lib/cycloneiii_atoms.v}
+# QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+# -- Compiling UDP CYCLONEIII_PRIM_DFFE
+# -- Compiling UDP CYCLONEIII_PRIM_DFFEAS
+# -- Compiling UDP CYCLONEIII_PRIM_DFFEAS_HIGH
+# -- Compiling module cycloneiii_dffe
+# -- Compiling module cycloneiii_mux21
+# -- Compiling module cycloneiii_mux41
+# -- Compiling module cycloneiii_and1
+# -- Compiling module cycloneiii_and16
+# -- Compiling module cycloneiii_bmux21
+# -- Compiling module cycloneiii_b17mux21
+# -- Compiling module cycloneiii_nmux21
+# -- Compiling module cycloneiii_b5mux21
+# -- Compiling module cycloneiii_latch
+# -- Compiling module cycloneiii_routing_wire
+# -- Compiling module cycloneiii_m_cntr
+# -- Compiling module cycloneiii_n_cntr
+# -- Compiling module cycloneiii_scale_cntr
+# -- Compiling module cycloneiii_pll_reg
+# -- Compiling module cycloneiii_pll
+# -- Compiling module cycloneiii_lcell_comb
+# -- Compiling module cycloneiii_ff
+# -- Compiling module cycloneiii_ram_pulse_generator
+# -- Compiling module cycloneiii_ram_register
+# -- Compiling module cycloneiii_ram_block
+# -- Compiling module cycloneiii_mac_data_reg
+# -- Compiling module cycloneiii_mac_sign_reg
+# -- Compiling module cycloneiii_mac_mult_internal
+# -- Compiling module cycloneiii_mac_mult
+# -- Compiling module cycloneiii_mac_out
+# -- Compiling module cycloneiii_io_ibuf
+# -- Compiling module cycloneiii_io_obuf
+# -- Compiling module cycloneiii_ddio_out
+# -- Compiling module cycloneiii_ddio_oe
+# -- Compiling module cycloneiii_pseudo_diff_out
+# -- Compiling module cycloneiii_io_pad
+# -- Compiling module cycloneiii_ena_reg
+# -- Compiling module cycloneiii_clkctrl
+# -- Compiling module cycloneiii_rublock
+# -- Compiling module cycloneiii_apfcontroller
+# -- Compiling module cycloneiii_termination_ctrl
+# -- Compiling module cycloneiii_termination_rupdn
+# -- Compiling module cycloneiii_termination
+# -- Compiling module cycloneiii_jtag
+# -- Compiling module cycloneiii_crcblock
+# -- Compiling module cycloneiii_oscillator
+# 
+# Top level modules:
+# 	cycloneiii_dffe
+# 	cycloneiii_and1
+# 	cycloneiii_and16
+# 	cycloneiii_bmux21
+# 	cycloneiii_b17mux21
+# 	cycloneiii_nmux21
+# 	cycloneiii_b5mux21
+# 	cycloneiii_pll_reg
+# 	cycloneiii_pll
+# 	cycloneiii_lcell_comb
+# 	cycloneiii_ff
+# 	cycloneiii_ram_block
+# 	cycloneiii_mac_mult
+# 	cycloneiii_mac_out
+# 	cycloneiii_io_ibuf
+# 	cycloneiii_io_obuf
+# 	cycloneiii_ddio_out
+# 	cycloneiii_ddio_oe
+# 	cycloneiii_pseudo_diff_out
+# 	cycloneiii_io_pad
+# 	cycloneiii_clkctrl
+# 	cycloneiii_rublock
+# 	cycloneiii_apfcontroller
+# 	cycloneiii_termination
+# 	cycloneiii_jtag
+# 	cycloneiii_crcblock
+# 	cycloneiii_oscillator
+# 
+# if {[file exists gate_work]} {
+# 	vdel -lib gate_work -all
+# }
+# vlib gate_work
+# vmap work gate_work
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+. {lab2_8_1200mv_85c_slow.vo}
+# QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+# -- Compiling module lab2
+# 
+# Top level modules:
+# 	lab2
+# 

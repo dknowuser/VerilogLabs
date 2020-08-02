@@ -1,0 +1,22 @@
+E:/Labs/hard_languages/lab3/compon.v {1 {vlog -work work -vopt {E:\Labs\hard_languages\lab3\compon.v}
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module decod
+
+Top level modules:
+	decod
+
+} {} {}} E:/Labs/hard_languages/lab3/tb_l3.v {1 {vlog -work work -vopt {E:\Labs\hard_languages\lab3\tb_l3.v}
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module test
+
+Top level modules:
+	test
+
+} {} {}} E:/Labs/hard_languages/lab3/str_lab3.v {1 {vlog -work work -vopt {E:\Labs\hard_languages\lab3\str_lab3.v}
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module complex
+
+Top level modules:
+	complex
+
+} {} {}}

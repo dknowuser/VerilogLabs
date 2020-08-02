@@ -1,0 +1,89 @@
+m255
+K4
+z2
+13
+cModel Technology
+dE:/Labs/hard_languages/lab3
+!s112 0.1
+!i10d 8192
+!i10e 25
+!i10f 100
+vcount
+Z0 V`JN@9S9cnhjKRR_L]QIcM3
+r1
+!s85 0
+31
+Ig1JRCcb;_hi^kX4aOfzOH0
+Z1 dE:/Labs/hard_languages/temp
+w1541463196
+8E:\Labs\hard_languages\temp\fourth.v
+FE:\Labs\hard_languages\temp\fourth.v
+L0 1
+Z2 OL;L;10.2c;57
+!s90 -reportprogress|300|-work|work|-vopt|E:\Labs\hard_languages\temp\fourth.v|
+Z3 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!i10b 1
+!s100 [A12kdIiMBH5NXgNaNO:G1
+!s108 1541463201.981000
+!s107 E:\Labs\hard_languages\temp\fourth.v|
+!i111 0
+vfirst
+!s100 2HaoFJ3>Rm:6G[LAfohWi1
+IfFEdXYcQ_=]Q3R6JY8S3g2
+Z4 V`JN@9S9cnhjKRR_L]QIcM3
+R1
+w1541461665
+8E:\Labs\hard_languages\temp\first.v
+FE:\Labs\hard_languages\temp\first.v
+L0 1
+R2
+r1
+31
+!s90 -reportprogress|300|-work|work|-vopt|E:\Labs\hard_languages\temp\first.v|
+R3
+Z5 !s110 1541462938
+!s108 1541462938.592000
+!s107 E:\Labs\hard_languages\temp\first.v|
+!i10b 1
+!s85 0
+!i111 0
+vsecond
+R5
+Ic]gAhkIUQ>Q4GGM0BG7zB0
+R4
+R1
+w1541461340
+8E:\Labs\hard_languages\temp\second_2.v
+FE:\Labs\hard_languages\temp\second_2.v
+L0 1
+R2
+r1
+31
+R3
+!s100 Gd^U94cIa:?I7fIiMX79_3
+!s108 1541462938.888000
+!s107 E:\Labs\hard_languages\temp\second_2.v|
+!s90 -reportprogress|300|-work|work|-vopt|E:\Labs\hard_languages\temp\second_2.v|
+!i10b 1
+!s85 0
+!i111 0
+vthird
+R5
+IGY2KmORb3_1Fl>Z4iWHB_0
+R4
+R1
+w1541462563
+8E:\Labs\hard_languages\temp\third.v
+FE:\Labs\hard_languages\temp\third.v
+L0 1
+R2
+r1
+31
+!s90 -reportprogress|300|-work|work|-vopt|E:\Labs\hard_languages\temp\third.v|
+R3
+!s100 knBKCaKLJLKTYHeM]CMjH2
+!s108 1541462938.757000
+!s107 E:\Labs\hard_languages\temp\third.v|
+!i10b 1
+!s85 0
+!i111 0

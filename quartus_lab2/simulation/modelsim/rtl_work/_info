@@ -1,0 +1,31 @@
+m255
+K4
+z2
+13
+cModel Technology
+Z0 dE:/Labs/hard_languages/quartus_lab2/simulation/modelsim
+!s112 0.1
+!i10d 8192
+!i10e 25
+!i10f 100
+vlab2
+!s110 1540281675
+!i10b 1
+!s100 0U<ngXW4MR^TBni=J@BiG3
+IZWATf0M[8M3Ce9z0O1Ed23
+V`JN@9S9cnhjKRR_L]QIcM3
+Z1 dE:/Labs/hard_languages/quartus_lab2/simulation/modelsim
+w1539658240
+8E:/Labs/hard_languages/lab2/lab2.v
+FE:/Labs/hard_languages/lab2/lab2.v
+L0 1
+Z2 OL;L;10.2c;57
+r1
+!s85 0
+31
+!s108 1540281675.441000
+!s107 E:/Labs/hard_languages/lab2/lab2.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/Labs/hard_languages/lab2|E:/Labs/hard_languages/lab2/lab2.v|
+!i111 0
+o-vlog01compat -work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s92 -vlog01compat -work work +incdir+E:/Labs/hard_languages/lab2 -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF

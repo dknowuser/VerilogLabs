@@ -1,0 +1,36 @@
+E:/Labs/hard_languages/temp/second.v {1 {vlog -work work -vopt {E:\Labs\hard_languages\temp\second.v}
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module second
+
+Top level modules:
+	second
+
+} {} {}} E:/Labs/hard_languages/temp/first.v {1 {vlog -work work -vopt {E:\Labs\hard_languages\temp\first.v}
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module first
+
+Top level modules:
+	first
+
+} {} {}} E:/Labs/hard_languages/temp/fourth.v {1 {vlog -work work -vopt {E:\Labs\hard_languages\temp\fourth.v}
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module count
+
+Top level modules:
+	count
+
+} {} {}} E:/Labs/hard_languages/temp/second_2.v {1 {vlog -work work -vopt {E:\Labs\hard_languages\temp\second_2.v}
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module second
+
+Top level modules:
+	second
+
+} {} {}} E:/Labs/hard_languages/temp/third.v {1 {vlog -work work -vopt {E:\Labs\hard_languages\temp\third.v}
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module third
+
+Top level modules:
+	third
+
+} {} {}}

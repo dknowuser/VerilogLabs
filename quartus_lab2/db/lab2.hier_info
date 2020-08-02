@@ -1,0 +1,15 @@
+|lab2
+z <= temp.DB_MAX_OUTPUT_PORT_TYPE
+clock => x_2.CLK
+clock => x_1.CLK
+clock => x_0.CLK
+clock => takt[0].CLK
+clock => takt[1].CLK
+clock => takt[2].CLK
+clock => takt[3].CLK
+reset => takt.OUTPUTSELECT
+reset => takt.OUTPUTSELECT
+reset => takt.OUTPUTSELECT
+reset => takt.OUTPUTSELECT
+
+

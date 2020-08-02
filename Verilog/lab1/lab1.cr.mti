@@ -1,0 +1,7 @@
+{D:/stud/5307/Kozlov Marchuk/Verilog/lab1/Lab1.v} {0 {vlog -work work -vopt -nocovercells {D:/stud/5307/Kozlov Marchuk/Verilog/lab1/Lab1.v}
+QuestaSim vlog 6.5c Compiler 2009.08 Aug 27 2009
+-- Compiling module lab1
+** Error: (vlog-42) Unsupported QuestaSim library format for "D:\stud\5307\Kozlov Marchuk\Verilog\lab1\work". (Format: 4)
+** Error: D:/stud/5307/Kozlov Marchuk/Verilog/lab1/Lab1.v(18): Verilog Compiler exiting
+
+} {4.0 6.0} {}}

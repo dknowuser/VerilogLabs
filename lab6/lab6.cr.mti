@@ -1,0 +1,22 @@
+E:/Labs/hard_languages/lab6/test_flow.v {1 {vlog -work work -vopt E:/Labs/hard_languages/lab6/test_flow.v
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module test_flow
+
+Top level modules:
+	test_flow
+
+} {} {}} E:/Labs/hard_languages/lab6/device_flow.v {1 {vlog -work work -vopt E:/Labs/hard_languages/lab6/device_flow.v
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module device_flow
+
+Top level modules:
+	device_flow
+
+} {} {}} E:/Labs/hard_languages/lab6/add_flow.v {1 {vlog -work work -vopt E:/Labs/hard_languages/lab6/add_flow.v
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module add_flow
+
+Top level modules:
+	add_flow
+
+} {} {}}

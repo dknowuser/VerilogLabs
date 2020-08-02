@@ -1,0 +1,8 @@
+{D:/stud/5307/Kozlov Marchuk/Verilog/Lab1.v} {1 {vlog -work work -vopt -nocovercells {D:/stud/5307/Kozlov Marchuk/Verilog/Lab1.v}
+QuestaSim vlog 6.5c Compiler 2009.08 Aug 27 2009
+-- Compiling module lab1
+
+Top level modules:
+	lab1
+
+} {} {}}

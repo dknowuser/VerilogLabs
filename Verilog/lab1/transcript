@@ -1,0 +1,16 @@
+# Reading C:/CAD/questasim_6.5c/tcl/vsim/pref.tcl 
+# //  QuestaSim 6.5c Aug 27 2009 
+# //
+# //  Copyright 1991-2009 Mentor Graphics Corporation
+# //              All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND 
+# //  PROPRIETARY INFORMATION WHICH IS THE PROPERTY
+# //  OF MENTOR GRAPHICS CORPORATION OR ITS LICENSORS
+# //  AND IS SUBJECT TO LICENSE TERMS.
+# //
+# OpenFile {D:/stud/5307/Kozlov Marchuk/Verilog/lab1/lab1.mpf} 
+# Loading project lab1
+# Error opening E:/Labs/hard_languages/lab1/Lab1.v
+# Path name 'E:/Labs/hard_languages/lab1/Lab1.v' doesn't exist.
+# Compile of Lab1.v failed with 1 errors.
